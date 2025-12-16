@@ -1,0 +1,26 @@
+{
+  "name": "currency-quote",
+  "version": "1.0.0",
+  "description": "Application for performing currency conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihfdias/currency-quote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ihfdias/currency-quote/issues"
+  },
+  "homepage": "https://github.com/ihfdias/currency-quote#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
